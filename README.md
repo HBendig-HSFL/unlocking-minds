@@ -6,7 +6,7 @@
 
 ## Description
 
-Using (only) Eyetracking data (like Fixations, Saccades, Blinks, etc.) for the classificiation of cognitive workload¹ 
+Using (only) Eyetracking data (like Fixations, Saccades, Blinks, etc.) for the classificiation of cognitive workload¹ 
 Can be binary (low / high) or three-leveld (low / mid / high)
 
 Challenges:
