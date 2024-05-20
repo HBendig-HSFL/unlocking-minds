@@ -15,7 +15,7 @@ Challenges:
 *Multimodal data is more accurate 
 **People are different
 
-¹ Cognitive workload: In cognitive psychology, cognitive load refers to the amount of working memory resources used.
+¹ Cognitive workload: In cognitive psychology, cognitive load refers to the amount of working memory resources used.
 
 
 ### Task Type
