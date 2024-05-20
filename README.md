@@ -1,12 +1,22 @@
-# [Your Project Title Here]
+# Unlocking Minds
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[Link](https://github.com/HBendig-HSFL/unlocking-minds/)
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Using (only) Eyetracking data (like Fixations, Saccades, Blinks, etc.) for the classificiation of cognitive workload¹ 
+Can be binary (low / high) or three-leveld (low / mid / high)
+
+Challenges:
+*Most research is using traditional classifiers 
+**May because of the elaborate data collection with human participants 
+*Multimodal data is more accurate 
+**People are different
+
+¹ Cognitive workload: In cognitive psychology, cognitive load refers to the amount of working memory resources used.
+
 
 ### Task Type
 
