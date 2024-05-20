@@ -6,14 +6,14 @@
 
 ## Description
 
-Using (only) Eyetracking data (like Fixations, Saccades, Blinks, etc.) for the classificiation of cognitive workload¹ 
+Using (only) Eyetracking data (like Fixations, Saccades, Blinks, etc.) for the classificiation of cognitive workload¹ <br />
 Can be binary (low / high) or three-leveld (low / mid / high)
 
 Challenges:
-*Most research is using traditional classifiers 
-**May because of the elaborate data collection with human participants 
-*Multimodal data is more accurate 
-**People are different
+* Most research is using traditional classifiers 
+  * May because of the elaborate data collection with human participants 
+* Multimodal data is more accurate 
+  * People are different
 
 ¹ Cognitive workload: In cognitive psychology, cognitive load refers to the amount of working memory resources used.
 
