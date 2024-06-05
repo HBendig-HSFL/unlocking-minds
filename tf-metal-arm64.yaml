@@ -1,0 +1,19 @@
+name: tf-metal
+channels:
+  - apple
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+
+  ## uncomment for use with Jupyter
+  ## - ipykernel
+
+  ## PyPI packages
+  - pip:
+      - tensorflow
+      - tensorflow-metal
+      - pandas
+      - numpy
+      - matplotlib
+      - seaborn
