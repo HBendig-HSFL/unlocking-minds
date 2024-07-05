@@ -20,13 +20,24 @@ Challenges:
 
 ### Task Type
 
-Multiclass Classification
+- Deep Generative Modelling (cGAN and statistical approach)
+- Binary and Multiclass Classification (with GNB and DNN)
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Gaussian Naive Bayes with synthetic data
+  
+- **Evaluation Metric:** Accuracy, Recall, Precision, F1-Score
+
+- **Result:**
+
+
+|            	| GNB Bin. 	| GNB Bin. Aug. 	| NN Bin. 	| NN Bin. Aug. 	|
+|-----------	|----------	|---------------	|---------	|--------------	|
+| Accuracy  	| 0.6842   	| 0.7256        	| 0.5789  	| 0.7041       	|
+| Precision 	| 0.6739   	| 0.7299        	| 0.5556  	| 0.8198       	|
+| Recall    	| 0.6842   	| 0.7255        	| 1       	| 0.7606       	|
+| F1        	| 0.6771   	| 0.7276        	| 0.7143  	| 0.7891       	|
 
 ## Documentation
 
