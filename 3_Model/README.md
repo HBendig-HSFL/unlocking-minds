@@ -8,4 +8,4 @@ Due to complexity and imbalance of our dataset we have a two parts here:
   - [cGAN Notebook](data_generation_cGAN.ipynb)
 
 - Defining / training / evaluating a classifier for predicting cognitive workload
-  - [NN Notebook](model_definition_evaluation.ipynp)
+  - [NN Notebook](model_definition_evaluation.ipynb)
